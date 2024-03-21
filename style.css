@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(200deg, rgb(20, 16, 16), rgb(228, 151, 151));
+    height: 100vh;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #000000;
+}
+
+
+img {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 160px;
+    width: auto;
+}
+
+header {
+    text-align: center;
+}
+
+body{
+    margin: 0;
+}
+
+aside {
+    max-width: 45%;
+    float: left;
+    width: 50%;
+    padding: 10px 100px;
+}
+
+section {
+    border-left: solid 2px;
+    float: left;
+    width: 50%;
+    padding: 10px 100px;
+}
